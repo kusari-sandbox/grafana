@@ -255,7 +255,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.44.0 // @grafana/grafana-app-platform-squad
 	github.com/thomaspoignant/go-feature-flag v1.42.0 // @grafana/grafana-backend-services-squad
 	github.com/ua-parser/uap-go v0.0.0-20251207011819-db9adb27a0b8 // @grafana/grafana-backend-group
-	github.com/ulikunitz/xz v0.5.7
+	github.com/ulikunitz/xz v0.5.15
 	github.com/urfave/cli/v2 v2.27.7 // @grafana/grafana-backend-group
 	github.com/wk8/go-ordered-map v1.0.0 // @grafana/grafana-backend-group
 	github.com/xlab/treeprint v1.2.0 // @grafana/observability-traces-and-profiling
